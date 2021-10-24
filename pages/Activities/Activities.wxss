@@ -1,0 +1,45 @@
+/* pages/Activities/Activities.wxss */
+
+.boxAct {
+    font-family:Impact, Haettenschweiler, ‘Arial Narrow Bold’, sans-serif;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    height: 60px;
+    background-color: white;
+    border-radius: 5px;
+    border:1px solid white;
+    padding: 20rpx;
+    margin: 20rpx;
+}
+
+.inbox {
+    font-family:Impact, Haettenschweiler, ‘Arial Narrow Bold’, sans-serif;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border:1px solid white;
+}
+
+.textstyle{
+    color: #828282;
+    font-weight: normal;
+}
+
+.myleft {
+    margin-right: 10px;
+}
+.mycenter {
+    flex:1;
+}
+
+.myright {
+    width: 50px;
+    height: 23px;
+    margin-top: 5px;
+}

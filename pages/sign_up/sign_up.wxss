@@ -1,0 +1,56 @@
+/* pages/sign_up/sign_up.wxss */
+.lineLayout {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+input {
+    height: 30px;
+    border-bottom: 2px solid silver;
+    margin:10rpx 0;
+}
+
+picker, button {
+    margin:15px 0;
+}
+
+.box {
+    margin:20rpx;
+    padding: 20rpx;
+    border:1px solid black;
+    border-radius: 7px;
+}
+
+.title {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 15px;
+    color: 	#000000;
+}
+
+.textStyle {
+    font-family:-apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Oxygen, Ubuntu, Cantarell, ‘Open Sans’, ‘Helvetica Neue’, sans-serif;
+    font-weight: bold;
+}
+
+.myleft {
+    margin-right: 10px;
+}
+.mycenter {
+    flex:1;
+    font-family:-apple-system, BlinkMacSystemFont, ‘Segoe UI’, Roboto, Oxygen, Ubuntu, Cantarell, ‘Open Sans’, ‘Helvetica Neue’, sans-serif;
+    font-weight: bold;
+}
+
+.myright {
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+}
+
+.pick {
+    display: flex;
+    flex-direction: row;
+}

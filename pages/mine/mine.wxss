@@ -1,0 +1,13 @@
+/* pages/mine/mine.wxss */
+.myleft {
+    margin-right: 10px;
+}
+.mycenter {
+    flex:1;
+}
+
+.myright {
+    width: 40rpx;
+    height: 40rpx;
+    margin-top: 5px;
+}

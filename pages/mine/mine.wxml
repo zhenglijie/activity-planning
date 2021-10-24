@@ -1,0 +1,39 @@
+<!--pages/mine/mine.wxml-->
+
+<view class="box1"></view>
+<view class="box1">
+    <view style="display: flex;align-items: center;">
+        <image mode="widthFix" src="/images/mine.png"></image>
+    </view>
+</view>
+<view class="backspace"></view>
+<button style="width:120px"  class = "btn2" bindtap="calc">点击登录</button>
+<view class="boxNavigator">
+    <icon type="success" class="myleft"></icon>
+    <view class="mycenter">真实姓名：郑立杰</view>
+    <image src="/images/right-arrow.png" class="myright"></image>
+</view>
+<view class="boxNavigator">
+    <icon type="success" class="myleft"></icon>
+    <view class="mycenter">手机号码：15265452923</view>
+    <image src="/images/right-arrow.png" class="myright"></image>
+</view>
+<view class="boxNavigator">
+    <icon type="success" class="myleft"></icon>
+    <view class="mycenter">邮箱：921377897@qq.com</view>
+    <image src="/images/right-arrow.png" class="myright"></image>
+</view>
+<view class="boxNavigator">
+    <icon type="success" class="myleft"></icon>
+    <view class="mycenter">联系客服</view>
+    <image src="/images/right-arrow.png" class="myright"></image>
+</view>
+<view class="boxNavigator">
+    <icon type="success" class="myleft"></icon>
+    <view class="mycenter">清除缓存</view>
+    <image src="/images/right-arrow.png" class="myright"></image>
+</view>
+
+
+
+

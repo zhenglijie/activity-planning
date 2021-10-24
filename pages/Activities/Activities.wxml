@@ -1,0 +1,63 @@
+<!--pages/Activities/Activities.wxml-->
+<scroll-view>
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">冬至（包饺子）</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:50人</view>
+  </view>
+
+  <view class="boxAct" plain="true"> 
+    <view class="inbox">
+        <view class="mycenter">每天背单词</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:110人</view>
+  </view>
+
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">今早相约饮早茶</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:65人</view>
+  </view>
+
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">智能装备学院羽毛球赛</view>
+        <image src="/images/finish.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:70人</view>
+  </view>
+
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">智能装备学院篮球赛</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:10人</view>
+  </view>
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">疫苗接种</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:10人</view>
+  </view>
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">今晚喝酒</view>
+        <image src="/images/progress.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:31人</view>
+  </view>
+  <view class="boxAct" plain="true">
+    <view class="inbox">
+        <view class="mycenter">大学生心理主题课</view>
+        <image src="/images/finish.png" class="myright"></image>
+    </view>
+    <view class="textstyle">已经报名人数:10人</view>
+  </view>
+</scroll-view>

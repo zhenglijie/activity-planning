@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="bg1" >
+    <view class="backspace"></view>
+    <view class="box1">
+        <view style="display: flex;align-items: center;">
+            <image mode="widthFix" src="/images/act_signup.png"></image>
+        </view>
+    </view>
+    <view class="backspace"></view>
+    <view class="box2">
+        <view class="mypagefont">“易”报名</view>
+        <view class="backspace"></view>
+        <view class="mypagefont">轻松搞定报名</view>
+    </view>
+    <view class="backspace"></view>
+    <button class = "btn3" bindtap="gotoPageSignUp" >立即报名</button>
+</view>
